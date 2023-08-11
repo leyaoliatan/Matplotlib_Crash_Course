@@ -1,6 +1,6 @@
 # Matplotlib Crash Course Series
 
-Welcome to the Matplotlib Crash Course Series! 🚀
+Welcome to the Matplotlib Quick Start Series! 🚀
 
 This repository contains a series of courses aimed at demystifying the art of data visualization using Python's powerful library, Matplotlib. In each episode, we'll explore different aspects of Matplotlib to help you create stunning visualizations and unleash the full potential of your data.
 
